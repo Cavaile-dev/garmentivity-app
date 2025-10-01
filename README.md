@@ -26,6 +26,3 @@ Kami menggunakan model Cat Boost Classifier karena algoritma ini dirancang untuk
 ## Hasil Prediksi
 - Model akan menampilkan apakah karyawan tersebut produktif atau tidak.
 - Diberikan rekomendasi untuk HR untuk step selanjutnya berdasarkan kinerja karyawannya
-
-## Dibuat oleh
-> Jessica Priscilla Immanuel, Kevin Erdianto Simon, Meghan Hillary Mardjohan
